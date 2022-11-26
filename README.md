@@ -3,7 +3,7 @@ join our discord server
 
 # Advertisement Bot Information
 
--- [v3rmillion post](https://v3rmillion.net/showthread.php?tid=1194842)
+[v3rmillion post](https://v3rmillion.net/showthread.php?tid=1194842)
 
 - Made by doom
 > Mil#1522 on discord
