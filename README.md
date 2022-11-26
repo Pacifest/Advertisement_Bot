@@ -7,6 +7,7 @@ join our discord server
 > Mil#1522 on discord
 
 # script
+- [source](https://raw.githubusercontent.com/Pacifest/Advertisement_Bot/main/Source)
 ```
 _G.messages = {'Oven is bad! - D00M ','"im always better than the other kids botting" 🤓'} -- You can edit these by creating an enclosed ' ' and putting a coma for a new message
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pacifest/Advertisement_Bot/main/Source"))()
