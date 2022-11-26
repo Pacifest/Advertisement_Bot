@@ -26,4 +26,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pacifest/Advertisemen
 ## extra
 - This was primary made to work for dollhouse roleplay but should work on any other game that doesn't have much anti-exploit
 - This script was made as a joke to clown on people using bots in dollhouse roleplay but it became a way to piss them off so I'm releasing it
-- **I AM NOT TELLING OR SHOWING ANYONE HOW TO RUN A TON OF BOTS! FIGURE IT OUT YOURSELF**
+- **I AM NOT TELLING OR SHOWING ANYONE HOW TO RUN MULTIPLE BOTS! FIGURE IT OUT YOURSELF**
