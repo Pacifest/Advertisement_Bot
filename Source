@@ -20,7 +20,7 @@ local Players = game:GetService("Players")
 
 local Player = Players.LocalPlayer
 
---_G.messages = {'Oven is bad! - D00M ','Ovens bots r bad!!!! - D00M','ovens bot messages are kinda weird - D00M','trying to prove ur cool by flinging? who would do that? *cough* oven *cough* - D00M','"im always better than the other kids botting" 🤓'}
+--_G.BotMessages = {'Oven is bad! - D00M ','Ovens bots r bad!!!! - D00M','ovens bot messages are kinda weird - D00M','trying to prove ur cool by flinging? who would do that? *cough* oven *cough* - D00M','"im always better than the other kids botting" 🤓'}
 
 local playersTable = {}
 local target = 't'
