@@ -1,6 +1,3 @@
-[![Discord Server](https://cdn.discordapp.com/attachments/959244001234530304/1044466955786133564/discordlogoinvite.png)](http://www.eternaladmin.ml/)
-join our discord server
-
 # Advertisement Bot Information
 
 [v3rmillion post](https://v3rmillion.net/showthread.php?tid=1194842)
